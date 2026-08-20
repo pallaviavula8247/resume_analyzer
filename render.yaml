@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: resume-analyzer
+    runtime: python
+    buildCommand: pip install -r backend/requirements.txt && python backend/manage.py migrate && python backend/manage.py load_datasets && python backend/manage.py collectstatic --noinput
+    startCommand: gunicorn --chdir backend config.wsgi:application
