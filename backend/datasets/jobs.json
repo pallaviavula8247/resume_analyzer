@@ -1,0 +1,314 @@
+[
+  {
+    "job_title": "Python Developer",
+    "description": "Build backend applications, APIs and automation using Python.",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Git"
+    ],
+    "preferred_skills": [
+      "Django",
+      "REST API",
+      "Docker"
+    ],
+    "education": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "experience_level": "Entry Level",
+    "experience_years": 0
+  },
+  {
+    "job_title": "Django Developer",
+    "description": "Develop secure web applications and REST APIs using Django.",
+    "required_skills": [
+      "Python",
+      "Django",
+      "SQL",
+      "REST API",
+      "Git"
+    ],
+    "preferred_skills": [
+      "PostgreSQL",
+      "Docker",
+      "AWS"
+    ],
+    "education": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "experience_level": "Entry Level",
+    "experience_years": 0
+  },
+  {
+    "job_title": "Full Stack Developer",
+    "description": "Develop frontend and backend web applications.",
+    "required_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "SQL",
+      "Git"
+    ],
+    "preferred_skills": [
+      "Django",
+      "React",
+      "REST API",
+      "Docker"
+    ],
+    "education": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "experience_level": "Entry Level",
+    "experience_years": 0
+  },
+  {
+    "job_title": "Backend Developer",
+    "description": "Design backend services, databases and APIs.",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "REST API",
+      "Git"
+    ],
+    "preferred_skills": [
+      "Django",
+      "PostgreSQL",
+      "Docker",
+      "Redis"
+    ],
+    "education": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "experience_level": "Entry Level",
+    "experience_years": 0
+  },
+  {
+    "job_title": "Frontend Developer",
+    "description": "Create responsive and accessible web interfaces.",
+    "required_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git"
+    ],
+    "preferred_skills": [
+      "React",
+      "TypeScript",
+      "Figma"
+    ],
+    "education": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "experience_level": "Entry Level",
+    "experience_years": 0
+  },
+  {
+    "job_title": "Data Analyst",
+    "description": "Analyze data and communicate business insights.",
+    "required_skills": [
+      "SQL",
+      "Excel",
+      "Power BI",
+      "Python"
+    ],
+    "preferred_skills": [
+      "Tableau",
+      "Pandas",
+      "NumPy"
+    ],
+    "education": [
+      "Computer Science",
+      "Statistics",
+      "Data Science"
+    ],
+    "experience_level": "Entry Level",
+    "experience_years": 0
+  },
+  {
+    "job_title": "Data Scientist",
+    "description": "Build statistical and machine learning solutions from data.",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "NumPy",
+      "Scikit-learn",
+      "Machine Learning"
+    ],
+    "preferred_skills": [
+      "TensorFlow",
+      "Power BI",
+      "Docker"
+    ],
+    "education": [
+      "Computer Science",
+      "Data Science",
+      "Statistics"
+    ],
+    "experience_level": "Entry Level",
+    "experience_years": 0
+  },
+  {
+    "job_title": "Machine Learning Engineer",
+    "description": "Develop, evaluate and deploy machine learning models.",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "Scikit-learn",
+      "SQL",
+      "Git"
+    ],
+    "preferred_skills": [
+      "TensorFlow",
+      "PyTorch",
+      "Docker",
+      "AWS"
+    ],
+    "education": [
+      "Computer Science",
+      "Data Science",
+      "Artificial Intelligence"
+    ],
+    "experience_level": "Entry Level",
+    "experience_years": 0
+  },
+  {
+    "job_title": "AI Engineer",
+    "description": "Build AI-powered applications using machine learning and NLP.",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "NLP",
+      "SQL",
+      "Git"
+    ],
+    "preferred_skills": [
+      "Deep Learning",
+      "TensorFlow",
+      "PyTorch",
+      "Docker"
+    ],
+    "education": [
+      "Computer Science",
+      "Artificial Intelligence",
+      "Data Science"
+    ],
+    "experience_level": "Entry Level",
+    "experience_years": 0
+  },
+  {
+    "job_title": "Software Developer",
+    "description": "Design, implement and test maintainable software systems.",
+    "required_skills": [
+      "Python",
+      "Java",
+      "SQL",
+      "Git"
+    ],
+    "preferred_skills": [
+      "REST API",
+      "Docker",
+      "Linux"
+    ],
+    "education": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "experience_level": "Entry Level",
+    "experience_years": 0
+  },
+  {
+    "job_title": "Java Developer",
+    "description": "Develop enterprise applications using Java and Spring technologies.",
+    "required_skills": [
+      "Java",
+      "SQL",
+      "Git"
+    ],
+    "preferred_skills": [
+      "Spring Boot",
+      "REST API",
+      "MySQL",
+      "Docker"
+    ],
+    "education": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "experience_level": "Entry Level",
+    "experience_years": 0
+  },
+  {
+    "job_title": "Java Full Stack Developer",
+    "description": "Build complete web applications with Java backend and modern frontend.",
+    "required_skills": [
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "Git"
+    ],
+    "preferred_skills": [
+      "Spring Boot",
+      "React",
+      "REST API",
+      "MySQL"
+    ],
+    "education": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "experience_level": "Entry Level",
+    "experience_years": 0
+  },
+  {
+    "job_title": "Business Analyst",
+    "description": "Translate business requirements into data-informed solutions.",
+    "required_skills": [
+      "Excel",
+      "SQL",
+      "Communication"
+    ],
+    "preferred_skills": [
+      "Power BI",
+      "Tableau",
+      "Agile"
+    ],
+    "education": [
+      "Computer Science",
+      "Business",
+      "Information Technology"
+    ],
+    "experience_level": "Entry Level",
+    "experience_years": 0
+  },
+  {
+    "job_title": "Cloud DevOps Engineer",
+    "description": "Automate deployment and operate reliable cloud infrastructure.",
+    "required_skills": [
+      "Linux",
+      "Git",
+      "Docker",
+      "CI/CD"
+    ],
+    "preferred_skills": [
+      "AWS",
+      "Kubernetes",
+      "Jenkins",
+      "Python"
+    ],
+    "education": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "experience_level": "Entry Level",
+    "experience_years": 0
+  }
+]

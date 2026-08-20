@@ -1,0 +1,267 @@
+[
+  {
+    "skill": "Python",
+    "category": "Programming Language",
+    "difficulty": "Beginner",
+    "related_jobs": [
+      "Python Developer",
+      "Django Developer",
+      "Data Scientist",
+      "AI Engineer"
+    ],
+    "related_skills": [
+      "Django",
+      "Pandas",
+      "FastAPI"
+    ],
+    "learning_priority": "High"
+  },
+  {
+    "skill": "Django",
+    "category": "Framework",
+    "difficulty": "Intermediate",
+    "related_jobs": [
+      "Django Developer",
+      "Full Stack Developer",
+      "Backend Developer"
+    ],
+    "related_skills": [
+      "REST API",
+      "PostgreSQL"
+    ],
+    "learning_priority": "High"
+  },
+  {
+    "skill": "REST API",
+    "category": "Backend",
+    "difficulty": "Intermediate",
+    "related_jobs": [
+      "Django Developer",
+      "Backend Developer",
+      "Full Stack Developer"
+    ],
+    "related_skills": [
+      "Django",
+      "PostgreSQL"
+    ],
+    "learning_priority": "High"
+  },
+  {
+    "skill": "PostgreSQL",
+    "category": "Database",
+    "difficulty": "Intermediate",
+    "related_jobs": [
+      "Django Developer",
+      "Backend Developer"
+    ],
+    "related_skills": [
+      "SQL",
+      "Docker"
+    ],
+    "learning_priority": "High"
+  },
+  {
+    "skill": "Docker",
+    "category": "DevOps",
+    "difficulty": "Intermediate",
+    "related_jobs": [
+      "Backend Developer",
+      "Cloud DevOps Engineer",
+      "Machine Learning Engineer"
+    ],
+    "related_skills": [
+      "Linux",
+      "CI/CD"
+    ],
+    "learning_priority": "Medium"
+  },
+  {
+    "skill": "Git",
+    "category": "Tool",
+    "difficulty": "Beginner",
+    "related_jobs": [
+      "Python Developer",
+      "Django Developer",
+      "Software Developer"
+    ],
+    "related_skills": [
+      "GitHub",
+      "CI/CD"
+    ],
+    "learning_priority": "High"
+  },
+  {
+    "skill": "SQL",
+    "category": "Database",
+    "difficulty": "Beginner",
+    "related_jobs": [
+      "Python Developer",
+      "Data Analyst",
+      "Backend Developer"
+    ],
+    "related_skills": [
+      "PostgreSQL",
+      "MySQL"
+    ],
+    "learning_priority": "High"
+  },
+  {
+    "skill": "Power BI",
+    "category": "Data Analytics",
+    "difficulty": "Beginner",
+    "related_jobs": [
+      "Data Analyst",
+      "Business Analyst"
+    ],
+    "related_skills": [
+      "Excel",
+      "SQL"
+    ],
+    "learning_priority": "Medium"
+  },
+  {
+    "skill": "Pandas",
+    "category": "Data/AI",
+    "difficulty": "Intermediate",
+    "related_jobs": [
+      "Data Analyst",
+      "Data Scientist"
+    ],
+    "related_skills": [
+      "NumPy",
+      "Python"
+    ],
+    "learning_priority": "High"
+  },
+  {
+    "skill": "Scikit-learn",
+    "category": "Data/AI",
+    "difficulty": "Intermediate",
+    "related_jobs": [
+      "Data Scientist",
+      "Machine Learning Engineer"
+    ],
+    "related_skills": [
+      "Python",
+      "Machine Learning"
+    ],
+    "learning_priority": "High"
+  },
+  {
+    "skill": "Machine Learning",
+    "category": "Data/AI",
+    "difficulty": "Intermediate",
+    "related_jobs": [
+      "Data Scientist",
+      "Machine Learning Engineer",
+      "AI Engineer"
+    ],
+    "related_skills": [
+      "Python",
+      "Scikit-learn"
+    ],
+    "learning_priority": "High"
+  },
+  {
+    "skill": "NLP",
+    "category": "Data/AI",
+    "difficulty": "Advanced",
+    "related_jobs": [
+      "AI Engineer",
+      "Machine Learning Engineer"
+    ],
+    "related_skills": [
+      "Python",
+      "Machine Learning"
+    ],
+    "learning_priority": "Medium"
+  },
+  {
+    "skill": "Java",
+    "category": "Programming Language",
+    "difficulty": "Beginner",
+    "related_jobs": [
+      "Java Developer",
+      "Java Full Stack Developer",
+      "Software Developer"
+    ],
+    "related_skills": [
+      "Spring Boot",
+      "SQL"
+    ],
+    "learning_priority": "High"
+  },
+  {
+    "skill": "Spring Boot",
+    "category": "Framework",
+    "difficulty": "Intermediate",
+    "related_jobs": [
+      "Java Developer",
+      "Java Full Stack Developer"
+    ],
+    "related_skills": [
+      "Java",
+      "REST API"
+    ],
+    "learning_priority": "High"
+  },
+  {
+    "skill": "React",
+    "category": "Frontend Framework",
+    "difficulty": "Intermediate",
+    "related_jobs": [
+      "Frontend Developer",
+      "Full Stack Developer",
+      "Java Full Stack Developer"
+    ],
+    "related_skills": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "learning_priority": "Medium"
+  },
+  {
+    "skill": "JavaScript",
+    "category": "Programming Language",
+    "difficulty": "Beginner",
+    "related_jobs": [
+      "Frontend Developer",
+      "Full Stack Developer",
+      "Java Full Stack Developer"
+    ],
+    "related_skills": [
+      "HTML",
+      "CSS",
+      "React"
+    ],
+    "learning_priority": "High"
+  },
+  {
+    "skill": "AWS",
+    "category": "Cloud",
+    "difficulty": "Intermediate",
+    "related_jobs": [
+      "Cloud DevOps Engineer",
+      "Backend Developer",
+      "Machine Learning Engineer"
+    ],
+    "related_skills": [
+      "Docker",
+      "Linux"
+    ],
+    "learning_priority": "Medium"
+  },
+  {
+    "skill": "Kubernetes",
+    "category": "DevOps",
+    "difficulty": "Advanced",
+    "related_jobs": [
+      "Cloud DevOps Engineer"
+    ],
+    "related_skills": [
+      "Docker",
+      "Linux"
+    ],
+    "learning_priority": "Low"
+  }
+]
