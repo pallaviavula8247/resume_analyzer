@@ -2,7 +2,7 @@
 // API CONFIGURATION
 // ==========================================
 
-const API_BASE = "https://resume-analyzer-pld8.onrender.com/api";
+const API_BASE = "/api";
 
 
 // ==========================================
