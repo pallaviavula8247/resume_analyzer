@@ -11,6 +11,7 @@ from dotenv import load_dotenv
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
+# Load environment variables from backend/.env
 load_dotenv(BASE_DIR / ".env")
 
 
@@ -123,29 +124,23 @@ TEMPLATES = [
 
 
 # ============================================================
-# DATABASE
+# DATABASE - NEON POSTGRESQL
 # ============================================================
 
 DATABASE_URL = os.getenv("DATABASE_URL")
 
+if not DATABASE_URL:
+    raise ValueError(
+        "DATABASE_URL environment variable is required"
+    )
 
-if DATABASE_URL:
-
-    DATABASES = {
-        "default": dj_database_url.parse(
-            DATABASE_URL,
-            conn_max_age=600,
-        )
-    }
-
-else:
-
-    DATABASES = {
-        "default": {
-            "ENGINE": "django.db.backends.sqlite3",
-            "NAME": BASE_DIR / "db.sqlite3",
-        }
-    }
+DATABASES = {
+    "default": dj_database_url.parse(
+        DATABASE_URL,
+        conn_max_age=600,
+        ssl_require=True,
+    )
+}
 
 
 # ============================================================
